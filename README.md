@@ -7,3 +7,5 @@
 - 출타 간 보고 누락 및 지연 상황을 최소화하고 쉽고 빠르게 보고하고 위치를 파악할 수 있는 애플리케이션
 ### 앱 디자인
 - 휴가를 연상케하는 하늘/ 바다의 푸른색 메인테마
+### PPT 자료
+https://docs.google.com/presentation/d/e/2PACX-1vTsOVz2RwWTLnhLEi0fj5_L-FTsekcDcz_PihauSXlw9bbXFC8pFrFT-pWN7sjbPLKnSQ7U5QyqpJNe/pub?start=true&loop=false&delayms=3000
