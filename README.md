@@ -9,5 +9,3 @@
 - 휴가를 연상케하는 하늘/ 바다의 푸른색 메인테마
 ### PPT 자료
 https://docs.google.com/presentation/d/e/2PACX-1vTsOVz2RwWTLnhLEi0fj5_L-FTsekcDcz_PihauSXlw9bbXFC8pFrFT-pWN7sjbPLKnSQ7U5QyqpJNe/pub?start=true&loop=false&delayms=3000
-## SDK
-FLUTTER
